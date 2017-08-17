@@ -1,7 +1,7 @@
 {
   "name": "arrow-to-return",
   "main": "./lib/arrow-to-return",
-  "version": "0.2.2",
+  "version": "0.3.0",
   "activationEvents": [
     "arrow-to-return:toArrow"
   ],
