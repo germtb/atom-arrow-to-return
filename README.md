@@ -1,6 +1,6 @@
 
 ## Convert one-line arrow functions to arrow functions with body and a return expression
-- Default keymap: `alt` + `a`
+* There is no default keybinding for this package. Create your own pointing to: `arrow-to-return:transform` or use it from the command palette.
 
 ![](https://raw.githubusercontent.com/germtb/gifs/master/to-arrow.gif)
 
