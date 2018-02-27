@@ -1,7 +1,7 @@
 {
   "name": "arrow-to-return",
   "main": "./dist/bundle",
-  "version": "0.3.2",
+  "version": "0.3.3",
   "activationEvents": [
     "arrow-to-return:toArrow"
   ],
